@@ -1,0 +1,8 @@
+D:\Sina Project\Sina Project\Sina API\obj\Release\net8.0\win-x86\Sina API.csproj.AssemblyReference.cache
+D:\Sina Project\Sina Project\Sina API\obj\Release\net8.0\win-x86\rpswa.dswa.cache.json
+D:\Sina Project\Sina Project\Sina API\obj\Release\net8.0\win-x86\Sina API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sina Project\Sina Project\Sina API\obj\Release\net8.0\win-x86\Sina API.AssemblyInfoInputs.cache
+D:\Sina Project\Sina Project\Sina API\obj\Release\net8.0\win-x86\Sina API.AssemblyInfo.cs
+D:\Sina Project\Sina Project\Sina API\obj\Release\net8.0\win-x86\Sina API.csproj.CoreCompileInputs.cache
+D:\Sina Project\Sina Project\Sina API\obj\Release\net8.0\win-x86\Sina API.MvcApplicationPartsAssemblyInfo.cache
+D:\Sina Project\Sina Project\Sina API\obj\Release\net8.0\win-x86\Sina API.sourcelink.json

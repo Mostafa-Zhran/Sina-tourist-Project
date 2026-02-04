@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sina BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6299e7d669b07560e7ba11195d0105ae693f4477")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sina BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sina BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

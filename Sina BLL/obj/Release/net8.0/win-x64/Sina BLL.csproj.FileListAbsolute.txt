@@ -1,0 +1,16 @@
+D:\Sina Project\Sina Project\Sina BLL\bin\Release\net8.0\win-x64\Sina BLL.deps.json
+D:\Sina Project\Sina Project\Sina BLL\bin\Release\net8.0\win-x64\Sina BLL.dll
+D:\Sina Project\Sina Project\Sina BLL\bin\Release\net8.0\win-x64\Sina BLL.pdb
+D:\Sina Project\Sina Project\Sina BLL\bin\Release\net8.0\win-x64\Sina DAL.dll
+D:\Sina Project\Sina Project\Sina BLL\bin\Release\net8.0\win-x64\Sina DAL.pdb
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.csproj.AssemblyReference.cache
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.AssemblyInfoInputs.cache
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.AssemblyInfo.cs
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.csproj.CoreCompileInputs.cache
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.sourcelink.json
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.csproj.Up2Date
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.dll
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\refint\Sina BLL.dll
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\Sina BLL.pdb
+D:\Sina Project\Sina Project\Sina BLL\obj\Release\net8.0\win-x64\ref\Sina BLL.dll

@@ -13,3 +13,4 @@ D:\Sina Project\Sina Project\Sina BLL\obj\Debug\net8.0\Sina BLL.dll
 D:\Sina Project\Sina Project\Sina BLL\obj\Debug\net8.0\refint\Sina BLL.dll
 D:\Sina Project\Sina Project\Sina BLL\obj\Debug\net8.0\Sina BLL.pdb
 D:\Sina Project\Sina Project\Sina BLL\obj\Debug\net8.0\ref\Sina BLL.dll
+D:\Sina Project\Sina Project\Sina BLL\obj\Debug\net8.0\Sina BLL.sourcelink.json

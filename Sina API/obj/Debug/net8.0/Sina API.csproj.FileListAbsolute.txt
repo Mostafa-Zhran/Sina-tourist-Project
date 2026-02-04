@@ -147,10 +147,10 @@ D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\staticwebassets.build.jso
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\staticwebassets.development.json
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\Sina API.csproj.Up2Date
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\Sina API.dll
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\refint\Sina API.dll
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\Sina API.pdb
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\Sina API.genruntimeconfig.cache
 D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\ref\Sina API.dll
+D:\Sina Project\Sina Project\Sina API\obj\Debug\net8.0\Sina API.sourcelink.json

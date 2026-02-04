@@ -4182,9 +4182,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sina Project\\Sina Project\\Sina DAL\\Sina DAL.csproj",
-      "projectName": "Sina DAL",
-      "projectPath": "D:\\Sina Project\\Sina Project\\Sina DAL\\Sina DAL.csproj",
+      "projectUniqueName": "D:\\Sina Project\\Sina Project\\Sina DAL\\Sina_DAL.csproj",
+      "projectName": "Sina_DAL",
+      "projectPath": "D:\\Sina Project\\Sina Project\\Sina DAL\\Sina_DAL.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
       "outputPath": "D:\\Sina Project\\Sina Project\\Sina DAL\\obj\\",
       "projectStyle": "PackageReference",

@@ -12,3 +12,4 @@ D:\Sina Project\Sina Project\Sina DAL\obj\Debug\net8.0\Sina DAL.pdb
 D:\Sina Project\Sina Project\Sina DAL\obj\Debug\net8.0\ref\Sina DAL.dll
 D:\Sina Project\Sina Project\Sina DAL\bin\Debug\net8.0\Sina DAL.runtimeconfig.json
 D:\Sina Project\Sina Project\Sina DAL\obj\Debug\net8.0\Sina DAL.genruntimeconfig.cache
+D:\Sina Project\Sina Project\Sina DAL\obj\Debug\net8.0\Sina DAL.sourcelink.json
